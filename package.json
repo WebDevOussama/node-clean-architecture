@@ -14,7 +14,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@fastify/autoload": "^6.0.3",
+    "@fastify/autoload": "^6.1.0",
     "@fastify/awilix": "^7.0.0",
     "@fastify/cors": "^10.0.2",
     "@fastify/helmet": "^13.0.1",
